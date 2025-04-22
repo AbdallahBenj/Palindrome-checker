@@ -27,6 +27,6 @@ To try the palindrome checker:
 
 Or view it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Palindrome-checker/)
 
 ## Let’s keep coding and uncover the magic of palindromes! ✨🔍
